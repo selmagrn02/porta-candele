@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://sites.google.com/view/candele-prova",
+      "permanent": false
+    }
+  ]
+}
